@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**IvanGoranov02/IvanGoranov02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Ivan Goranov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Frontend Developer | 🎓 Student 
+
+I'm passionate about creating exceptional user experiences and turning complex problems into elegant solutions.
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- **Tools:** VS Code, Git, GitHub
+- **Currently Learning:** Advanced React Patterns & Web Performance Optimization
+
+## 🏆 Achievements
+- 🥇 National competition "Technology, Creativity, Entrepreneurship" - 1st Place (2020, 2021)
+- 🥇 National IT competition, Blagoevgrad - Multiple 1st Places
+- 🥇 National competition "IT-Znayko" - 1st Place
+- 🥇 National competition "John Atanasov" - 1st Place
+- 🥈 Fifth Session of the Student Institute of BAS - 2nd Place
+
+## 🚀 Featured Projects
+- **Blog Platform** - Social media-like application with React.js
+- **Nutrition Calculator** - Personalized meal planning tool
+- **Portfolio Website** - Modern Next.js showcase with animations
+
+## 💡 Interests
+- 📚 Reading Tech Blogs
+- 🧩 Problem Solving
+- 🌍 Traveling
+- 💪 Fitness
+- 📸 Photography
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-goranov/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanGoranoff)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivgoranov/)
+
+---
+💼 Open to new opportunities and collaborations
