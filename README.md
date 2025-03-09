@@ -6,6 +6,9 @@
 
 I'm passionate about creating exceptional user experiences and turning complex problems into elegant solutions.
 
+## 🌐 Website:
+www.igoranov.com
+
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
@@ -24,12 +27,6 @@ I'm passionate about creating exceptional user experiences and turning complex p
 - **Nutrition Calculator** - Personalized meal planning tool
 - **Portfolio Website** - Modern Next.js showcase with animations
 
-## 💡 Interests
-- 📚 Reading Tech Blogs
-- 🧩 Problem Solving
-- 🌍 Traveling
-- 💪 Fitness
-- 📸 Photography
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-goranov/)
