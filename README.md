@@ -34,4 +34,4 @@ www.igoranov.com
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivgoranov/)
 
 ---
-💼 Open to new opportunities and collaborations
+💼 Currently working as a front-end developer at https://fidweb.net/
