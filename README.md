@@ -8,7 +8,9 @@ I'm passionate about creating exceptional user experiences and turning complex p
 
 ## 🌐 Website:
 www.igoranov.com
+### 
 Email: contact@igoranov.com
+### 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
